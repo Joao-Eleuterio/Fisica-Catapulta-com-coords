@@ -5,3 +5,6 @@ Uma catapulta que lança pedras com velocidade escalar inicial V0, é utilizada 
 Como utilizar:
 
 É muito simples o programa pede a coordenada ao utilizador (x,y) e depois pede o ângulo que deseja (isto mudará a altura em que se situa a catapulta) após isso aparecerá um gráfico com a trajetória.
+
+
+Conclui com 17
