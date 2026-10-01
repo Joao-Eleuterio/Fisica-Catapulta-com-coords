@@ -1,10 +1,26 @@
-# Fisica-Catapulta-com-coords
-Uma catapulta que lança pedras com velocidade escalar inicial V0, é utilizada para provocar um deslizamento de terra numa montanha inclinada.Pretende-se que as pedras atinjam um ponto estratégico situado à distância horizontal de 250m a partir da catapulta e 50 m acima desta (na vertical).(a) Qual o ângulo, altura inicial e velocidade inicial com que a pedra deve ser lançada.(b) Trace a trajetória da pedra neste cenário.O programa deve permitir fazer variar as coordenadas do ponto alvo para se poderem estudar outros cenário.
+# Projectile Motion Simulator
 
+Small physics application for simulating the trajectory of a projectile launched toward a configurable target.
 
-Como utilizar:
+## Overview
 
-É muito simples o programa pede a coordenada ao utilizador (x,y) e depois pede o ângulo que deseja (isto mudará a altura em que se situa a catapulta) após isso aparecerá um gráfico com a trajetória.
+The program models projectile motion for a catapult scenario. The user provides target coordinates and a launch angle, and the application calculates and visualizes the resulting trajectory.
 
+## Features
 
-Conclui com 17
+- configurable target coordinates
+- configurable launch angle
+- projectile trajectory calculation
+- graphical trajectory visualization
+- support for experimenting with different scenarios
+
+## Concepts
+
+- projectile motion
+- kinematics
+- numerical calculation
+- data visualization
+
+## Background
+
+Originally developed as a physics coursework project and retained as an early example of applying programming to mathematical modelling.
